@@ -26,5 +26,5 @@ I’m passionate about building clean, responsive, and user-friendly web experie
 ![](https://github-readme-stats.vercel.app/api?username=OjoFarouqAbiodun&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OjoFarouqAbiodun&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OjoFarouqAbiodun&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojofarouqabiodun&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
