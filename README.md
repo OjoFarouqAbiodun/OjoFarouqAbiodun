@@ -29,7 +29,7 @@ I’m passionate about building clean, responsive, and user-friendly web experie
 ![](https://github-readme-stats.vercel.app/api/top-langs/?)
 
 # GitHub Streaks:
-![](https://streak-stats.demolab.com/?user=ojofarouqabiodun&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ojofarouqabiodun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?username=OjoFarouqAbiodun&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/username=OjoFarouqAbiodun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
