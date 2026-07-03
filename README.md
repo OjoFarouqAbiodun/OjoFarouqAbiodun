@@ -31,5 +31,3 @@ I’m passionate about building clean, responsive, and user-friendly web experie
 
 # 📊 Stack Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OjoFarouqAbiodun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
