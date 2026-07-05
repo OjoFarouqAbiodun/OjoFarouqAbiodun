@@ -3,8 +3,8 @@
 I’m passionate about building clean, responsive, and user-friendly web experiences. Skilled in HTML, CSS, JavaScript, and exploring modern tools to bring ideas to life. Currently sharpening my frontend skills while blending creativity from my graphic design background.
 
 ✨ Always learning, creating, and sharing.
-# 🌐 Connect with Me  
 
+# 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/ojo-farouq-abiodun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
